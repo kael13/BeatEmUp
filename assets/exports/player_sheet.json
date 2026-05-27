@@ -1,0 +1,195 @@
+{
+  "frame_size": {
+    "w": 384,
+    "h": 384
+  },
+  "columns": 10,
+  "padding": 2,
+  "scale": 3.0,
+  "frames": [
+    {
+      "name": "attack_a_00",
+      "animation": "attack",
+      "x": 0,
+      "y": 0,
+      "w": 384,
+      "h": 384
+    },
+    {
+      "name": "attack_a_01",
+      "animation": "attack",
+      "x": 386,
+      "y": 0,
+      "w": 384,
+      "h": 384
+    },
+    {
+      "name": "attack_a_02",
+      "animation": "attack",
+      "x": 772,
+      "y": 0,
+      "w": 384,
+      "h": 384
+    },
+    {
+      "name": "idle_00",
+      "animation": "idle",
+      "x": 1158,
+      "y": 0,
+      "w": 384,
+      "h": 384
+    },
+    {
+      "name": "idle_01",
+      "animation": "idle",
+      "x": 1544,
+      "y": 0,
+      "w": 384,
+      "h": 384
+    },
+    {
+      "name": "idle_02",
+      "animation": "idle",
+      "x": 1930,
+      "y": 0,
+      "w": 384,
+      "h": 384
+    },
+    {
+      "name": "idle_03",
+      "animation": "idle",
+      "x": 2316,
+      "y": 0,
+      "w": 384,
+      "h": 384
+    },
+    {
+      "name": "idle_04",
+      "animation": "idle",
+      "x": 2702,
+      "y": 0,
+      "w": 384,
+      "h": 384
+    },
+    {
+      "name": "idle_05",
+      "animation": "idle",
+      "x": 3088,
+      "y": 0,
+      "w": 384,
+      "h": 384
+    },
+    {
+      "name": "idle_06",
+      "animation": "idle",
+      "x": 3474,
+      "y": 0,
+      "w": 384,
+      "h": 384
+    },
+    {
+      "name": "idle_07",
+      "animation": "idle",
+      "x": 0,
+      "y": 386,
+      "w": 384,
+      "h": 384
+    },
+    {
+      "name": "idle_08",
+      "animation": "idle",
+      "x": 386,
+      "y": 386,
+      "w": 384,
+      "h": 384
+    },
+    {
+      "name": "idle_09",
+      "animation": "idle",
+      "x": 772,
+      "y": 386,
+      "w": 384,
+      "h": 384
+    },
+    {
+      "name": "walk_00",
+      "animation": "walk",
+      "x": 1158,
+      "y": 386,
+      "w": 384,
+      "h": 384
+    },
+    {
+      "name": "walk_01",
+      "animation": "walk",
+      "x": 1544,
+      "y": 386,
+      "w": 384,
+      "h": 384
+    },
+    {
+      "name": "walk_02",
+      "animation": "walk",
+      "x": 1930,
+      "y": 386,
+      "w": 384,
+      "h": 384
+    },
+    {
+      "name": "walk_03",
+      "animation": "walk",
+      "x": 2316,
+      "y": 386,
+      "w": 384,
+      "h": 384
+    },
+    {
+      "name": "walk_04",
+      "animation": "walk",
+      "x": 2702,
+      "y": 386,
+      "w": 384,
+      "h": 384
+    },
+    {
+      "name": "walk_05",
+      "animation": "walk",
+      "x": 3088,
+      "y": 386,
+      "w": 384,
+      "h": 384
+    },
+    {
+      "name": "walk_06",
+      "animation": "walk",
+      "x": 3474,
+      "y": 386,
+      "w": 384,
+      "h": 384
+    },
+    {
+      "name": "walk_07",
+      "animation": "walk",
+      "x": 0,
+      "y": 772,
+      "w": 384,
+      "h": 384
+    },
+    {
+      "name": "walk_08",
+      "animation": "walk",
+      "x": 386,
+      "y": 772,
+      "w": 384,
+      "h": 384
+    },
+    {
+      "name": "walk_09",
+      "animation": "walk",
+      "x": 772,
+      "y": 772,
+      "w": 384,
+      "h": 384
+    }
+  ]
+}
